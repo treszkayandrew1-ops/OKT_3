@@ -12,3 +12,4 @@ for i in golk:
 
 #gyoztelem=len(golk)-dontetlen-vereseg
 print(f"A szezonban  csapatnak {gyoztelem} győzelem, {dontetlen} döntetlen, {vereseg} veresége volt")
+end 
